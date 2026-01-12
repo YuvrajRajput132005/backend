@@ -13,7 +13,7 @@
   },
   "license": "ISC",
   "author": "yuvraj",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
